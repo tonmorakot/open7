@@ -1,0 +1,1 @@
+start php.exe ../index.php
